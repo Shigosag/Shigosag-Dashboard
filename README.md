@@ -72,6 +72,9 @@ Shigosag-Dashboard/
 
 ## 🚀 Getting Started
 
+## Requirements
+- Node.js (v18+)
+  
 ---
 
 ### 1. Clone repository
