@@ -72,7 +72,7 @@ Shigosag-Dashboard/
 
 ## 🚀 Getting Started
 
-## Requirements
+## Prerequisites
 - Node.js (v18+)
   
 ---
