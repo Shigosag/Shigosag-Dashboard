@@ -1,7 +1,7 @@
 # 🚀 Shigosag Dashboard (Full Stack)
 
-[![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)](https://www.typescriptlang.org/)  
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)  
+[![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A modern full-stack dashboard system with **React frontend + Node.js backend**, built for scalable UI, API structure, and portfolio/demo use.
