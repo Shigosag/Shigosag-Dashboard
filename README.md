@@ -89,7 +89,7 @@ Shigosag-Dashboard/
 
 ----
 
-## 🖼️ Preview Screenshots
+## 🖼️ Feature Screenshots
 
 ### Home
 ![Dashboard](screenshots/dashboard.png)
