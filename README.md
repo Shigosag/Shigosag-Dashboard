@@ -9,6 +9,21 @@ A modern full-stack dashboard system with **React frontend + Node.js backend**, 
 💖 Powered by Shigosag  
 👤 Author: Shigosag  
 
+![Login](screenshots/login.png)
+
+### 🎥 System Walkthrough & Demo
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/71bc50be-2402-4495-ae8c-e11bc88a5e56" width="100%" controls></video>
+</div>
+
+**Timestamps:**
+- **0:00** - BMS Refresh & Loading
+- **0:10** - Dashboard Light Mode Overview
+- **0:21** - Dashboard Dark Mode Overview
+- **0:36** - Menu Overview
+- **0:50** - GitHub Repository Overview
+  
 ---
 
 ## ✨ Features
@@ -71,6 +86,17 @@ Shigosag-Dashboard/
 │
 └── README.md
 ```
+
+----
+
+## 🖼️ Preview Screenshots
+
+### Home
+![Dashboard](screenshots/dashboard.png)
+
+| Analytics | Admin Panel |
+| :---: | :---: |
+| ![Analytics](screenshots/analytics.png) | ![Admin](screenshots/admin.png) |
 
 ---
 
@@ -139,6 +165,14 @@ Frontend runs at: http://localhost:5173
 - 📈 Analytics → Revenue, Users, Orders stats
 - 🛠 Admin → Admin management UI (mock panel)
 - 🔐 Login → Demo login system (bypass auth)
+
+---
+
+## 🖼️ Mobile Preview
+
+| Home | Admin Panel |
+| :---: | :---: |
+| ![Home](screenshots/dashboard.png) | ![Admin](screenshots/admin.png) |
 
 ---
 
