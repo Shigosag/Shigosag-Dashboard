@@ -18,11 +18,12 @@ A modern full-stack dashboard system with **React frontend + Node.js backend**, 
 </div>
 
 **Timestamps:**
-- **0:00** - BMS Refresh & Loading
-- **0:10** - Dashboard Light Mode Overview
-- **0:21** - Dashboard Dark Mode Overview
-- **0:36** - Menu Overview
-- **0:50** - GitHub Repository Overview
+- **0:00** - Server Terminal
+- **0:08** - Login Flow
+- **0:36** - Dashboard Overview
+- **0:50** - Analytics
+- **1:01** - Admin Panel
+- **1:35** - GitHub Repository Overview
   
 ---
 
