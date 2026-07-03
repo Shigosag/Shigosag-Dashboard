@@ -172,7 +172,7 @@ Frontend runs at: http://localhost:5173
 
 | Home | Admin Panel |
 | :---: | :---: |
-| ![Home](screenshots/dashboard.png) | ![Admin](screenshots/admin.png) |
+| ![Home](screenshots/dashboard_mobile.png) | ![Admin](screenshots/admin_mobile.png) |
 
 ---
 
