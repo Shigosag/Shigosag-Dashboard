@@ -1,4 +1,10 @@
-export default function Button({ label, onClick, color = "pink" }) {
+interface ButtonProps {
+  label: string;
+  onClick: () => void;
+  color?: string;
+}
+
+export default function Button({ label, onClick, color = "pink" }: ButtonProps) {
   return (
     <button
       onClick={onClick}
