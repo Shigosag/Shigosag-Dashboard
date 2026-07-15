@@ -6,6 +6,15 @@
 
 A modern full-stack dashboard system with **React frontend + Node.js backend**, built for scalable UI, API structure, and portfolio/demo use.
 
+---
+
+## 🌐 Live Demo
+
+🚀 **Visit Shigosag Dashboard:**  
+https://shigosag-dashboard.up.railway.app
+
+---
+
 💖 Powered by Shigosag  
 👤 Author: Shigosag  
 
