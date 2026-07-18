@@ -11,7 +11,7 @@ A modern full-stack dashboard system with **React frontend + Node.js backend**, 
 ## 🌐 Live Demo
 
 🚀 **Visit Shigosag Dashboard:**  
-https://shigosag-dashboard.up.railway.app
+https://shigosag-dashboard.vercel.app/
 
 ---
 
